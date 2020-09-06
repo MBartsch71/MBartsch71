@@ -7,12 +7,12 @@
 
 #### Languages and tools:
 
-<img height="24" width="24" src="icons/vscode-insiders.svg" alt="vscode-insiders"/> <img 
-height="24" width="24" src="icons/eclipseide.svg" alt="eclipse"/>
+<img height="24" width="24" src="MBartsch71/icons/vscode-insiders.svg" alt="vscode-insiders"/> <img 
+height="24" width="24" src="icons/MBartsch71/eclipseide.svg" alt="eclipse"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32"/>
-<img src="icons/abap.svg" alt="abap" width="32" height="32"/>
-<img src="icons/lisp.svg" alt="lisp" width="32" height="32"/>
+<img src="MBartsch71/icons/abap.svg" alt="abap" width="32" height="32"/>
+<img src="MBartsch71/icons/lisp.svg" alt="lisp" width="32" height="32"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="32" height="32"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="32" height="32"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="32" height="32"/>
