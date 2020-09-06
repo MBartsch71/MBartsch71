@@ -1,4 +1,4 @@
-![Lago di Como](https://github.com/MBartsch71/MBartsch71/blob/master/pictures/lago-di-como.png)
+![Lago di Como](https://github.com/MBartsch71/MBartsch71/blob/master/pictures/lago_di_como.png)
 
 #### Connect with me
 
