@@ -20,7 +20,10 @@ height="24" width="24" src="icons/eclipseide.svg" alt="eclipse"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="32" height="32"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png" alt="svelte" width="32" height="32"/>
 
+<details>
+<summary>GitHub statistics</summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbartsch71&show_icons=true" alt="mbartsch71" /></p>
+</details>
 
 ### Hi there 👋
 
