@@ -1,4 +1,4 @@
-![Lago di Como](https://github.com/MBartsch71/MBartsch71/blob/master/pictures/lago_di_como.png)
+![Kuessnacht am Rigi](https://github.com/MBartsch71/MBartsch71/blob/master/pictures/kuessnacht.png)
 
 #### Connect with me
 
