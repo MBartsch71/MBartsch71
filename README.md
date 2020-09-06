@@ -1,3 +1,5 @@
+![Lago di Como](https://github.com/MBartsch71/MBartsch71/blob/master/pictures/lago-di-como.png)
+
 #### Connect with me
 
 [![LinkedIn](https://github.com/MBartsch71/MBartsch71/blob/master/icons/linkedin.png)](https://www.linkedin.com/in/matthias-bartsch-b6468696/)
@@ -20,24 +22,14 @@
 ![MySQL](https://github.com/MBartsch71/MBartsch71/blob/master/icons/mysql.png)
 ![Svelte](https://github.com/MBartsch71/MBartsch71/blob/master/icons/svelte.png)
 
+#### Github statistics
+
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=mbartsch71&show_icons=true)
 
-<details>
-<summary>GitHub statistics</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbartsch71&show_icons=true" alt="mbartsch71" /></p>
-</details>
+#### About myself
 
-<!--
-**MBartsch71/MBartsch71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: ABAP Code Kata - Tic Tac Toe
+- 🌱 I’m currently learning: LISP & Smalltalk
+- 👯 I’m looking to collaborate on: ABAP, Clean ABAP
+- 🤔 I’m looking for help with: Svelte and CORS problems
+- 💬 Ask me about: ABAP, TDD
