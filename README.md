@@ -17,7 +17,7 @@
 ![HTML5](https://github.com/MBartsch71/MBartsch71/blob/master/icons/html5.png)
 ![CSS3](https://github.com/MBartsch71/MBartsch71/blob/master/icons/css3.png)
 ![JavaScript](https://github.com/MBartsch71/MBartsch71/blob/master/icons/js.png)
-![MySQL](https://github.com/MBartsch71/MBartsch71/blob/master/icons/svelte.png)
+![MySQL](https://github.com/MBartsch71/MBartsch71/blob/master/icons/mysql.png)
 ![Svelte](https://github.com/MBartsch71/MBartsch71/blob/master/icons/svelte.png)
 
 <details>
