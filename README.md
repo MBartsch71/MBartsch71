@@ -7,18 +7,18 @@
 
 #### Languages and tools:
 
-[<img height="24" width="24" src="Bartsch71/MBartsch71/icons/vscode-insiders.svg" alt="vscode-insiders"/>]()
-<img height="24" width="24" src="cons/eclipseide.svg" alt="eclipse"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32"/>
-<img src="icons/abap.svg" alt="abap" width="32" height="32"/>
-<img src="icons/lisp.svg" alt="lisp" width="32" height="32"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="32" height="32"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="32" height="32"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="32" height="32"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="32" height="32"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png" alt="svelte" width="32" height="32"/>
+![VS Code Insiders](icons/code-insiders-16.png)
+![Eclipse](icons/eclipse.png)
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>](#fragment)
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32"/>](#fragment)
+[<img src="icons/abap.svg" alt="abap" width="32" height="32"/>](#fragment)
+[<img src="icons/lisp.svg" alt="lisp" width="32" height="32"/>](#fragment)
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="32" height="32"/>](#fragment)
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="32" height="32"/>](#fragment)
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="32" height="32"/>](#fragment)
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>](#fragment)
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="32" height="32"/>](#fragment)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png" alt="svelte" width="32" height="32"/>](#fragment)
 
 <details>
 <summary>GitHub statistics</summary>
