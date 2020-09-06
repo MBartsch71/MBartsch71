@@ -9,11 +9,10 @@
 
 ![VS Code Insiders](https://github.com/MBartsch71/MBartsch71/blob/master/icons/code-insiders-16.png)
 ![Eclipse](https://github.com/MBartsch71/MBartsch71/blob/master/icons/eclipse.png)
-![Eclipse](icons/eclipse.png)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>](#fragment)
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32"/>](#fragment)
-[<img src="icons/abap.svg" alt="abap" width="32" height="32"/>](#fragment)
-[<img src="icons/lisp.svg" alt="lisp" width="32" height="32"/>](#fragment)
+![ABAP](https://github.com/MBartsch71/MBartsch71/blob/master/icons/abap.png)
+![Lisp](https://github.com/MBartsch71/MBartsch71/blob/master/icons/lisp.png)
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="32" height="32"/>](#fragment)
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="32" height="32"/>](#fragment)
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="32" height="32"/>](#fragment)
