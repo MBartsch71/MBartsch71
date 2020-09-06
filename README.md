@@ -1,6 +1,6 @@
 #### Connect with me:
 
-![https://github.com/MBartsch71/MBartsch71/blob/master/icons/code-insiders-16.png](https://www.linkedin.com/in/matthias-bartsch-b6468696/)
+[![LinkedIn](https://github.com/MBartsch71/MBartsch71/blob/master/icons/code-insiders-16.png)](https://www.linkedin.com/in/matthias-bartsch-b6468696/)
 ![https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/MBartsch)
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />](https://www.codewars.com/users/MBartsch71)
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sap.svg" />](https://people.sap.com/mbartsch71ch)
