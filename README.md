@@ -7,7 +7,7 @@
 
 #### Languages and tools:
 
-![VS Code Insiders](icons/code-insiders-16.png)
+![VS Code Insiders](https://github.com/MBartsch71/MBartsch71/blob/master/icons/code-insiders-16.png)
 ![Eclipse](icons/eclipse.png)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>](#fragment)
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32"/>](#fragment)
