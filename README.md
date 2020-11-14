@@ -28,8 +28,8 @@
 
 #### About myself
 
-- 🔭 I’m currently working on: ABAP Code Kata - Tic Tac Toe
-- 🌱 I’m currently learning: LISP & Smalltalk
+- 🔭 I’m currently working on: ABAP Code Kata - Sudoku
+- 🌱 I’m currently learning: LISP & Smalltalk, SAP BRF+, Semantic Web
 - 👯 I’m looking to collaborate on: ABAP, Clean ABAP
 - 🤔 I’m looking for help with: Svelte and CORS problems
 - 💬 Ask me about: ABAP, TDD
