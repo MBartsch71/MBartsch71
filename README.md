@@ -28,7 +28,7 @@
 
 #### About myself
 
-- 🔭 I’m currently working on: ABAP Code Kata - Sudoku
+- 🔭 I’m currently working on: ABAP Code Kata - Sudoku, Certification ASE Foundation Level, Advent of Code 2020
 - 🌱 I’m currently learning: LISP & Smalltalk, SAP BRF+, Semantic Web
 - 👯 I’m looking to collaborate on: ABAP, Clean ABAP
 - 🤔 I’m looking for help with: Svelte and CORS problems
