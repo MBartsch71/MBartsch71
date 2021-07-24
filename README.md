@@ -27,8 +27,10 @@
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=mbartsch71&show_icons=true)
 
 #### About myself
-
-- 🔭 I’m currently working on: ABAP Code Kata - Sudoku, Certification ASE Foundation Level, Advent of Code 2020
+- 🔭 I’m currently working on: 
+    - [ABAP Code Kata - Bounded Queue](https://ccd-school.de/en/coding-dojo/classes-katas/bounded-queue/)
+    - [Code Kata - Wordwrap](https://ccd-school.de/en/coding-dojo/application-katas/wordwrap/) 
+    - Book Review - Refactoring (Martin Fowler)
 - 🌱 I’m currently learning: LISP & Smalltalk, SAP BRF+, Semantic Web
 - 👯 I’m looking to collaborate on: ABAP, Clean ABAP
 - 🤔 I’m looking for help with: Svelte and CORS problems
