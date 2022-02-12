@@ -28,10 +28,12 @@
 
 #### About myself
 - 🔭 I’m currently working on: 
-    - [ABAP Code Kata - Bounded Queue](https://ccd-school.de/en/coding-dojo/classes-katas/bounded-queue/)
+    - [ABAP Binary Tools - Make the work with binary numbers in ABAP more easy](https://ccd-school.de/en/coding-dojo/classes-katas/bounded-queue/)
     - [Code Kata - Wordwrap](https://ccd-school.de/en/coding-dojo/application-katas/wordwrap/) 
-    - Book Review - Refactoring (Martin Fowler)
-- 🌱 I’m currently learning: LISP & Smalltalk, SAP BRF+, Semantic Web
+    - Book Reviews:
+         - Growing Object-Oriented Software, guided by tests (Steve Freeman, Nat Pryce)
+         - Core Data Services for ABAP (Renzo Colle, Ralf Dentzer, Jan Hrastnik)()
+- 🌱 I’m currently learning: LISP & Smalltalk, SAP CDS, Fiori , Semantic Web
 - 👯 I’m looking to collaborate on: ABAP, Clean ABAP
 - 🤔 I’m looking for help with: Svelte and CORS problems
 - 💬 Ask me about: ABAP, TDD
