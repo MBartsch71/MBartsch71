@@ -28,8 +28,7 @@
 
 #### About myself
 - 🔭 I’m currently working on: 
-    - [ABAP Binary Tools - Make the work with binary numbers in ABAP more easy](https://ccd-school.de/en/coding-dojo/classes-katas/bounded-queue/)
-    - [Code Kata - Wordwrap](https://ccd-school.de/en/coding-dojo/application-katas/wordwrap/) 
+    - [ABAP Binary Tools - Make the work with binary numbers in ABAP more easy](https://github.com/MBartsch71/abap-binary-tools)
     - Book Reviews:
          - Growing Object-Oriented Software, guided by tests (Steve Freeman, Nat Pryce)
          - Core Data Services for ABAP (Renzo Colle, Ralf Dentzer, Jan Hrastnik)()
