@@ -5,7 +5,8 @@
 [![LinkedIn](https://github.com/MBartsch71/MBartsch71/blob/master/icons/linkedin.png)](https://www.linkedin.com/in/matthias-bartsch-b6468696/)
 [![Twitter](https://github.com/MBartsch71/MBartsch71/blob/master/icons/twitter.png)](https://www.twitter.com/MBartsch)
 [![Codewars](https://github.com/MBartsch71/MBartsch71/blob/master/icons/codewars.png)](https://www.codewars.com/users/MBartsch71)
-[![SAP Community](https://github.com/MBartsch71/MBartsch71/blob/master/icons/sap.png)](https://people.sap.com/mbartsch71ch)
+[![SAP Community](https://github.com/MBartsch71/MBartsch71/blob/master/icons/sap.png)](https://people.sap.com/mbartsch71ch)  
+[![Exercism](https://github.com/MBartsch71/MBartsch71/blob/master/icons/abap.svg)](https://exercism.org/profiles/MBartsch71)
 
 #### Languages and tools
 
