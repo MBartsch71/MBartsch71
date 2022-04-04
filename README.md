@@ -27,9 +27,12 @@
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=mbartsch71&show_icons=true)
 
 #### About myself
-
-- 🔭 I’m currently working on: ABAP Code Kata - Tic Tac Toe
-- 🌱 I’m currently learning: LISP & Smalltalk
+- 🔭 I’m currently working on: 
+    - [ABAP Binary Tools - Make the work with binary numbers in ABAP more easy](https://github.com/MBartsch71/abap-binary-tools)
+    - Book Reviews:
+         - Growing Object-Oriented Software, guided by tests (Steve Freeman, Nat Pryce)
+         - Core Data Services for ABAP (Renzo Colle, Ralf Dentzer, Jan Hrastnik)()
+- 🌱 I’m currently learning: LISP & Smalltalk, SAP CDS, Fiori , Semantic Web
 - 👯 I’m looking to collaborate on: ABAP, Clean ABAP
 - 🤔 I’m looking for help with: Svelte and CORS problems
 - 💬 Ask me about: ABAP, TDD
